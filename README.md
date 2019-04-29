@@ -1,14 +1,14 @@
 # SimpleCA
 
-A simple implementation of CA.
+一个简单的 CA 设计文档.
 
 - [SimpleCA](#simpleca)
-  - [Document index](#document-index)
-    - [Requirements and design](#requirements-and-design)
+  - [文档目录](#%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95)
+    - [需求和设计文档](#%E9%9C%80%E6%B1%82%E5%92%8C%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3)
 
-## Document index
+## 文档目录
 
-### Requirements and design
+### 需求和设计文档
 
 - [需求文档](./doc/需求文档.md)
 - [概要设计](./doc/概要设计.md)
